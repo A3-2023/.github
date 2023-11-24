@@ -1,7 +1,10 @@
 <h1 align=center> 💾 A3 • 2023 💾 </h1>
 
+## 📜Sobre
+A Avaliação 3 (A3) é uma avaliação que abrange as competências delineadas no plano de ensino, acompanhando o processo de ensino-aprendizagem ao longo do semestre. Seu resultado se reflete no desenvolvimento de um produto final.
+
 <details>
-<summary><b><u><font size="+2">🧙‍♂️Membros</font></u></b></summary>
+<summary> <h2 >🧙‍♂️Membros </h2></summary>
 <br>
   
 [![Gabrielle Soares- 422221763](https://img.shields.io/badge/Gabrielle_Soares-422221763-pink?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/gabriellesote)
