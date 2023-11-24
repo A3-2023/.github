@@ -14,7 +14,7 @@ A Avaliação 3 (A3) é uma avaliação que abrange as competências delineadas 
 [![ Anna Clara - 422142003](https://img.shields.io/static/v1?label=+Anna+Clara&message=422142003&color=C683D7&style=for-the-badge&logo=github&logoColor=C683D7)](https://github.com/byasun)
   
   <p align="center">
-  <img alt="membros" src="https://github.com/A3-2023/A3-Estruturas-Matematicas/blob/main/banner2.png?raw=true" width="100%">
+  <img alt="membros" src="https://github.com/A3-2023/.github/blob/main/profile/banner.png?raw=true" width="100%">
 </p>
 
 
