@@ -1,5 +1,7 @@
 <h1 align=center> 💾 A3 • 2023 💾 </h1>
-
+<p align="center">
+  <img alt="banner" src="https://github.com/A3-2023/.github/blob/main/profile/A3.png?raw=true">
+</p>
 ## 📜 Sobre a A3
 A Avaliação 3 (A3) é uma avaliação que abrange as competências delineadas no plano de ensino, acompanhando o processo de ensino-aprendizagem ao longo do semestre. Seu resultado se reflete no desenvolvimento de um produto final.
 
