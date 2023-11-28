@@ -47,6 +47,8 @@ qualidade de apresentação e materiais utilizados.
 
 </details>
 
+-----
+
 <h2 >🧙‍♂️Membros </h2>
 
   
