@@ -32,10 +32,10 @@ A Avaliação 3 (A3) é uma avaliação que abrange as competências delineadas 
    ![online - Adriana Neves](https://img.shields.io/badge/online-Adriana_Neves-141E46?style=for-the-badge)
 
    <h4> Proposta:</h4>
- O objetivo do projeto é criar um ambiente em realidade virtual, implementando um port para VR utilizando a Unity ou outra plataforma escolhida pela equipe. O cenário a ser explorado será definido de forma colaborativa pelo grupo.
-  
-   <h4> Conceito Escolhido:</h4>
+ O objetivo do projeto é criar um ambiente em realidade virtual, implementando um port para VR utilizando a Unity ou outra plataforma escolhida pela equipe. O cenário a ser explorado será definido de forma colaborativa pelo grupo. <br> 
 
+
+[![Projeto - Computação Gráfica](https://img.shields.io/badge/Projeto-Computação_Gráfica-E7BCDE?style=for-the-badge&logo=python&logoColor=67729D)](https://github.com/A3-2023/A3-Computacao-Grafica)
 
 -----
 
