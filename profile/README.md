@@ -57,6 +57,8 @@ qualidade de apresentação e materiais utilizados.
 [![Lucas Rodrigues - 422222503](https://img.shields.io/badge/Lucas_Rodrigues-422222503-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/LucasRramos)
 [![Gabriel Bernardes - 422222195](https://img.shields.io/static/v1?label=Gabriel+Bernardes&message=422222195&color=0f6103&style=for-the-badge&logo=github&logoColor=0f6103)](https://github.com/Gabber28)
 [![ Anna Clara - 422142003](https://img.shields.io/static/v1?label=+Anna+Clara&message=422142003&color=C683D7&style=for-the-badge&logo=github&logoColor=C683D7)](https://github.com/byasun)
+[![Arthur augusto - 422222654](https://img.shields.io/badge/Arthur_augusto-422222654-BB9CC0?style=for-the-badge&logo=github&logoColor=BB9CC0)](https://github.com/arthuraugus)
+
   
   <p align="center">
   <img alt="membros" src="https://github.com/A3-2023/.github/blob/main/profile/banner.png?raw=true" width="100%">
