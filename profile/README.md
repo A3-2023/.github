@@ -36,8 +36,7 @@ O objetivo do projeto é criar um ambiente em realidade virtual, implementando u
  <h4> Proposta:</h4>
   
 
-A proposta A3, no âmbito da disciplina de Estruturas Matemáticas, visa aplicar conceitos da ementa de forma prática na área de programação. Os alunos serão avaliados com base em critérios processuais,     
-qualidade de apresentação e materiais utilizados.
+A proposta A3, no âmbito da disciplina de Estruturas Matemáticas, visa aplicar conceitos da ementa de forma prática na área de programação. Os alunos serão avaliados com base em critérios processuais, qualidade de apresentação e materiais utilizados.
 
 
   
